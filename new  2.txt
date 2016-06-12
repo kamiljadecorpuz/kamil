@@ -1,0 +1,12 @@
+<div class="col-lg-3">
+					<div class="list-group">
+								
+								  <a href="#portfolio"  class="list-group-item cursor_hover button1" onClick="port1()"><span><i class="fa fa-search-plus"></i></span>&nbsp;&nbsp;  T-shirt Designs</a>
+								  <a href="#portfolio"  class="list-group-item cursor_hover button1" onClick="port2()"><span><i class="fa fa-search-plus"></i></span>&nbsp;&nbsp;   Printed Designs</a>
+								  <a href="#portfolio" class="list-group-item cursor_hover button1" onClick="port3()"><span><i class="fa fa-search-plus"></i></span>&nbsp;&nbsp;   Logo Designs</a>
+								  <a href="#portfolio"  class="list-group-item cursor_hover button1" onClick="port4()"><span><i class="fa fa-search-plus"></i></span>&nbsp;&nbsp;   Web Designs</a>
+								  <a href="#portfolio"  class="list-group-item cursor_hover button1" onClick="port5()"><span><i class="fa fa-search-plus"></i></span>&nbsp;&nbsp;   Artworks</a>
+								  
+								</div>
+					
+					</div>
